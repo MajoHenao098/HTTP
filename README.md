@@ -1,2 +1,2 @@
-[HTTPs](https://majohenao098.github.io/HTTP/)
+Pages: https://majohenao098.github.io/HTTP/
 
