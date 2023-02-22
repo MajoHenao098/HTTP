@@ -1,4 +1,2 @@
-# SisInt-Handler
-Handler con scores y registro de usuarios
+HTTPs
 
-Build: https://mejara171.github.io/SisInt-Handler/
